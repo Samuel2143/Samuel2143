@@ -1,9 +1,9 @@
 ### Hey there! 👋
 
-I'm Samuel, a final year Computer Science Engineering student with a passion for DevOps. 🚀 Currently honing my skills and gearing up for exciting opportunities in the field.
+I'm Samuel, a final year Computer Science and Engineering student with a passion for DevOps. 🚀 Currently honing my skills and gearing up for exciting opportunities in the field.
 
 #### 🎓 Academic Background:
-- Studying B.E. in Computer Science Engineering.
+- Studying B.E Computer Science and Engineering.
 
 #### 💻 Technical Skills:
 - **Operating Systems:** Linux
