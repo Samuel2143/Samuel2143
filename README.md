@@ -9,7 +9,7 @@ I'm Samuel, a final year Computer Science and Engineering student with a passion
 - **Operating Systems:** Linux
 - **DevOps Tools:** Docker, Git, GitHub
 - **Markup Languages:** YAML, XML, JSON
-- **Programming Languages:** Java, Python
+- **Programming Languages:** Java, Python, Shell Scripting (Bash)
 
 #### 🌐 Interests:
 - Exploring the vast realm of DevOps and eager to contribute to cutting-edge projects.
@@ -28,4 +28,4 @@ I'm Samuel, a final year Computer Science and Engineering student with a passion
 #### 🌱 Open to Opportunities:
 - Currently seeking opportunities in the DevOps field. Excited about contributing to innovative projects and making a positive impact.
 
-Thanks for checking out my profile! Feel free to explore my projects and drop a message. Let's build the future together! 🌟
+Thanks for checking out my profile! Feel free to explore my projects and drop a message! 🌟
