@@ -6,7 +6,7 @@ I'm Samuel, a final year Computer Science and Engineering student with a passion
 - Studying B.E Computer Science and Engineering.
 
 #### 💻 Technical Skills:
-- **Operating Systems:** Linux
+- **Operating Systems:** Linux, Windows
 - **DevOps Tools:** Docker, Git, GitHub
 - **Markup Languages:** YAML, XML, JSON
 - **Programming Languages:** Java, Python, Shell Scripting (Bash)
