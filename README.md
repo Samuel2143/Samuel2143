@@ -8,7 +8,7 @@ I'm Samuel, a final year Computer Science and Engineering student balancing DSA 
 #### 💻 Technical Skills:
 - **Operating Systems:** Linux, Windows
 - **Programming Languages:** Core Java, Shell Scripting (Bash)
-- **Frontend:** HTML5, CSS3, Bootstrap5
+- **Frontend:** HTML5, CSS3, Bootstrap5, Javascript, JQuery
 - **Tools:** Docker, Git and GitHub, vscode
 - **Markup Languages:** YAML, XML, JSON
 - **Additional Skills:** Average typing speed of 80 WPM
@@ -18,7 +18,7 @@ I'm Samuel, a final year Computer Science and Engineering student balancing DSA 
 - Ready to embrace new technologies and tools that shape the FullStack landscape.
 
 #### 🚀 GitHub Activity:
-- Check out my repository [Samuel2143/Java-problems](https://github.com/Samuel2143/Java-problems) for Java solutions to LeetCode problems. I keep it updated with new problem-solving adventures.
+- Check out my repository [Samuel2143/Java-problems](https://github.com/Samuel2143/Leetcode-solutions) for Java solutions to LeetCode problems. I keep it updated with new problem-solving adventures.
 
 #### 📚 Learning Journey:
 - Actively learning and documenting my journey in the world of Development in [Twitter](https://twitter.com/samuel2143ip). Excited about the continuous learning process.
